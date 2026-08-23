@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yohei1734.github.io/studio-pilot-jp/sitemap.xml
